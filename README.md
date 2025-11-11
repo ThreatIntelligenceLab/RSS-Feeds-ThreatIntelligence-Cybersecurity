@@ -1,7 +1,10 @@
 # RSS-Feeds-ThreatIntelligence-Cybersecurity
-A massive collection of Cybersecurity and TI RSS feeds
+A massive collection of Cybersecurity and TI RSS feeds (Around 1400~ RSS feeds)
 
-Last checked: 11-11-2025
+- Follow [Threat Intelligence Lab](https://www.linkedin.com/company/threat-intelligence-lab/) on LinkedIn.
+- Follow [Cyberwarzone.com](https://x.com/Cyberwarzonecom) on Twitter.
+
+Last updated on: 11-11-2025 by Reza Rafati
 
 **Use last_item_date to see if the feed is still active (aside of it being healthy)**
 
