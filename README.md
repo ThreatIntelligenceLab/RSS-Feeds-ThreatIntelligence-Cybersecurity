@@ -1404,3 +1404,4 @@ Last updated on: 11-11-2025 by Reza Rafati
 | 1392 | zeronights.ru | https://zeronights.ru/feed/ | - | broken |
 | 1393 | zerothoughts.tumblr.com | https://zerothoughts.tumblr.com/rss | - | broken |
 | 1394 | zeroyu.xyz | http://zeroyu.xyz/atom.xml | - | broken |
+| 1395 | ichi.global | https://ichi.global/api/alerts | 2026-10-23T00:53:06Z | healthy |
